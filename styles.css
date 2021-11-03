@@ -16,18 +16,18 @@ code {
 }
 
 .todo-list {
-    background: #e8e8e8;
-    border-radius: 4px;
-    padding: 5px;
+    background: #e53278;
+    border-radius: 2px;
+    padding: 2px;
     max-width: 400px;
 }
 
 .todo {
-    background: #fff;
+    background: #ccd1d9;
     box-shadow: 1px 1px 1px rgba(0,0,0, 0.15);
     padding: 3px 10px;
     font-size: 24px;
-    margin-bottom: 6px;
+    margin-bottom: 3px;
     border-radius: 3px;
     display: flex;
     align-items: center;
